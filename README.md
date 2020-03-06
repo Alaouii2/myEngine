@@ -1,2 +1,2 @@
 # myEngine
-My personnal game engine
+My personnal game engine (With C++ and Visual Studio)
